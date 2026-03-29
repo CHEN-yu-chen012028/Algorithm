@@ -29,7 +29,7 @@ public class StackInputExample {
         long endTime = System.nanoTime();
         long totalTime = endTime - startTime;
 
-        // --- 🎯 新增：時間複雜度分析輸出 ---
+      
        System.out.println("\n----------------------------------------");
         System.out.println("效能指標 (Performance Metrics)");
         System.out.println("資料規模 (Input Size n): " + n);
