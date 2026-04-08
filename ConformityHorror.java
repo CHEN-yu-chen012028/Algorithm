@@ -17,7 +17,7 @@ public class ConformityHorror {
 
         // 1. 初始化三條路徑 (保持不變)
         Node routeA = new Node("森林舊道", 0.95, "充滿雜草與摩擦力，但能聽見自己的腳步聲。");
-        Node routeB = new Node("平滑大道", 0.05, "極致圓潤、無阻力，所有人都在這按讚。");
+        Node routeB = new Node("平滑大道", 0.01, "極致圓潤、無阻力，所有人都在這按讚。");
         Node routeC = new Node("數據小徑", 0.20, "演算法推薦的次佳選擇，看似多元其實平庸。");
 
         // 2. 建立鄰居列表 (保持不變)
